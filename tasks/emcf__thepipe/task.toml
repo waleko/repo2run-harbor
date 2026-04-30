@@ -1,0 +1,26 @@
+schema_version = "1.2"
+
+[task]
+name = "repo2run/emcf__thepipe"
+description = "Configure emcf/thepipe@02e3977 so pytest --collect-only succeeds."
+keywords = ["repo2run", "python", "build-configuration", "environment-setup"]
+
+[metadata]
+source = "repo2run"
+upstream_repo = "emcf/thepipe"
+base_commit = "02e397710bfae10a5b764c2b455d0d3697cb2376"
+paper = "arXiv:2502.13681"
+criterion = "ebsr-lenient"
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+
+[verifier]
+timeout_sec = 300.0
+
+[agent]
+timeout_sec = 1800.0

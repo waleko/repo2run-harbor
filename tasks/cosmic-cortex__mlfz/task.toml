@@ -1,0 +1,26 @@
+schema_version = "1.2"
+
+[task]
+name = "repo2run/cosmic-cortex__mlfz"
+description = "Configure cosmic-cortex/mlfz@5bf8d2a so pytest --collect-only succeeds."
+keywords = ["repo2run", "python", "build-configuration", "environment-setup"]
+
+[metadata]
+source = "repo2run"
+upstream_repo = "cosmic-cortex/mlfz"
+base_commit = "5bf8d2ada262f95ab165f023cd7f8ba5a97f880c"
+paper = "arXiv:2502.13681"
+criterion = "ebsr-lenient"
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+
+[verifier]
+timeout_sec = 300.0
+
+[agent]
+timeout_sec = 1800.0

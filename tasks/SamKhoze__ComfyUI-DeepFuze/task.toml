@@ -1,0 +1,26 @@
+schema_version = "1.2"
+
+[task]
+name = "repo2run/SamKhoze__ComfyUI-DeepFuze"
+description = "Configure SamKhoze/ComfyUI-DeepFuze@edd7fec so pytest --collect-only succeeds."
+keywords = ["repo2run", "python", "build-configuration", "environment-setup"]
+
+[metadata]
+source = "repo2run"
+upstream_repo = "SamKhoze/ComfyUI-DeepFuze"
+base_commit = "edd7fec4405e60cb9abd4d4a7be4368942be4f6e"
+paper = "arXiv:2502.13681"
+criterion = "ebsr-lenient"
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+
+[verifier]
+timeout_sec = 300.0
+
+[agent]
+timeout_sec = 1800.0

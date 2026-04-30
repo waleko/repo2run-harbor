@@ -1,0 +1,26 @@
+schema_version = "1.2"
+
+[task]
+name = "repo2run/microsoft__semantic-link-labs"
+description = "Configure microsoft/semantic-link-labs@8e37efd so pytest --collect-only succeeds."
+keywords = ["repo2run", "python", "build-configuration", "environment-setup"]
+
+[metadata]
+source = "repo2run"
+upstream_repo = "microsoft/semantic-link-labs"
+base_commit = "8e37efd7333f43e78d3a0fc330155d4abc857567"
+paper = "arXiv:2502.13681"
+criterion = "ebsr-lenient"
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+
+[verifier]
+timeout_sec = 300.0
+
+[agent]
+timeout_sec = 1800.0

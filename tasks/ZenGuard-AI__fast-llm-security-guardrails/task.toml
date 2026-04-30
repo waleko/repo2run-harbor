@@ -1,0 +1,26 @@
+schema_version = "1.2"
+
+[task]
+name = "repo2run/ZenGuard-AI__fast-llm-security-guardrails"
+description = "Configure ZenGuard-AI/fast-llm-security-guardrails@6a867c1 so pytest --collect-only succeeds."
+keywords = ["repo2run", "python", "build-configuration", "environment-setup"]
+
+[metadata]
+source = "repo2run"
+upstream_repo = "ZenGuard-AI/fast-llm-security-guardrails"
+base_commit = "6a867c1eebd8eb5579728385e9ae317af480a256"
+paper = "arXiv:2502.13681"
+criterion = "ebsr-lenient"
+
+[environment]
+build_timeout_sec = 900.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+
+[verifier]
+timeout_sec = 300.0
+
+[agent]
+timeout_sec = 1800.0

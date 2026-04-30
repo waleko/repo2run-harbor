@@ -1,0 +1,1245 @@
+[dataset]
+name = "repo2run/paper"
+description = "Repo2Run task type packaged for Harbor: configure a Python repo at a base commit so pytest --collect-only succeeds."
+
+[[tasks]]
+name = "repo2run/271374667__VideoFusion"
+
+[[tasks]]
+name = "repo2run/6abd__horus"
+
+[[tasks]]
+name = "repo2run/a-r-r-o-w__cogvideox-factory"
+
+[[tasks]]
+name = "repo2run/a-s-g93__neo4j-runway"
+
+[[tasks]]
+name = "repo2run/Aaditya-Prasad__consistency-policy"
+
+[[tasks]]
+name = "repo2run/AARG-FAN__Yolo_for_Wukong"
+
+[[tasks]]
+name = "repo2run/adamobeng__wddbfs"
+
+[[tasks]]
+name = "repo2run/Adibvafa__CodonTransformer"
+
+[[tasks]]
+name = "repo2run/AdityaNG__kan-gpt"
+
+[[tasks]]
+name = "repo2run/Admyral-Security__admyral"
+
+[[tasks]]
+name = "repo2run/AgentOps-AI__AgentStack"
+
+[[tasks]]
+name = "repo2run/aidatatools__ollama-benchmark"
+
+[[tasks]]
+name = "repo2run/AIR-Bench__AIR-Bench"
+
+[[tasks]]
+name = "repo2run/airbytehq__PyAirbyte"
+
+[[tasks]]
+name = "repo2run/airtai__fastagency"
+
+[[tasks]]
+name = "repo2run/Akkudoktor-EOS__EOS"
+
+[[tasks]]
+name = "repo2run/alexmolas__microsearch"
+
+[[tasks]]
+name = "repo2run/alexwlchan__safari-webarchiver"
+
+[[tasks]]
+name = "repo2run/AlibabaPAI__llumnix"
+
+[[tasks]]
+name = "repo2run/All-Hands-AI__OpenHands"
+
+[[tasks]]
+name = "repo2run/alvin-r__databonsai"
+
+[[tasks]]
+name = "repo2run/amchii__tg-signer"
+
+[[tasks]]
+name = "repo2run/andrewyng__aisuite"
+
+[[tasks]]
+name = "repo2run/andrewyng__translation-agent"
+
+[[tasks]]
+name = "repo2run/AnswerDotAI__byaldi"
+
+[[tasks]]
+name = "repo2run/AnswerDotAI__rerankers"
+
+[[tasks]]
+name = "repo2run/antgroup__agentUniverse"
+
+[[tasks]]
+name = "repo2run/apapiu__transformer_latent_diffusion"
+
+[[tasks]]
+name = "repo2run/apify__crawlee-python"
+
+[[tasks]]
+name = "repo2run/apple__ml-cross-entropy"
+
+[[tasks]]
+name = "repo2run/apple__ml-mdm"
+
+[[tasks]]
+name = "repo2run/apple__ToolSandbox"
+
+[[tasks]]
+name = "repo2run/arcee-ai__fastmlx"
+
+[[tasks]]
+name = "repo2run/argmaxinc__whisperkittools"
+
+[[tasks]]
+name = "repo2run/arvindrajan92__DTrOCR"
+
+[[tasks]]
+name = "repo2run/astramind-ai__Auralis"
+
+[[tasks]]
+name = "repo2run/atonderski__neuro-ncap"
+
+[[tasks]]
+name = "repo2run/aurelio-labs__semantic-chunkers"
+
+[[tasks]]
+name = "repo2run/AuvaLab__itext2kg"
+
+[[tasks]]
+name = "repo2run/awslabs__agent-evaluation"
+
+[[tasks]]
+name = "repo2run/Azure-Samples__rag-postgres-openai-python"
+
+[[tasks]]
+name = "repo2run/Azure__co-op-translator"
+
+[[tasks]]
+name = "repo2run/bananaml__fructose"
+
+[[tasks]]
+name = "repo2run/basf__mamba-tabular"
+
+[[tasks]]
+name = "repo2run/basf__MolPipeline"
+
+[[tasks]]
+name = "repo2run/beatzxbt__mm-toolbox"
+
+[[tasks]]
+name = "repo2run/bellingcat__ShadowFinder"
+
+[[tasks]]
+name = "repo2run/Benexl__FastAnime"
+
+[[tasks]]
+name = "repo2run/betaacid__FastAPI-Reference-App"
+
+[[tasks]]
+name = "repo2run/bigcode-project__bigcodebench"
+
+[[tasks]]
+name = "repo2run/Bl3f__yato"
+
+[[tasks]]
+name = "repo2run/Blealtan__efficient-kan"
+
+[[tasks]]
+name = "repo2run/block__goose"
+
+[[tasks]]
+name = "repo2run/BMPixel__moffee"
+
+[[tasks]]
+name = "repo2run/boheumd__MA-LMM"
+
+[[tasks]]
+name = "repo2run/bytewiz3__TravelGPT"
+
+[[tasks]]
+name = "repo2run/CausalLearning__ReAct"
+
+[[tasks]]
+name = "repo2run/cfahlgren1__observers"
+
+[[tasks]]
+name = "repo2run/chaidiscovery__chai-lab"
+
+[[tasks]]
+name = "repo2run/character-ai__prompt-poet"
+
+[[tasks]]
+name = "repo2run/cheahjs__palworld-save-tools"
+
+[[tasks]]
+name = "repo2run/chernyadev__bigym"
+
+[[tasks]]
+name = "repo2run/chrschy__fact-finder"
+
+[[tasks]]
+name = "repo2run/circlemind-ai__fast-graphrag"
+
+[[tasks]]
+name = "repo2run/cloudflare__cloudflare-python"
+
+[[tasks]]
+name = "repo2run/codefuse-ai__CodeFuse-muAgent"
+
+[[tasks]]
+name = "repo2run/codeintegrity-ai__mutahunter"
+
+[[tasks]]
+name = "repo2run/codematrixer__hmdriver2"
+
+[[tasks]]
+name = "repo2run/codeskyblue__tidevice3"
+
+[[tasks]]
+name = "repo2run/codeskyblue__uiautodev"
+
+[[tasks]]
+name = "repo2run/Codium-ai__AlphaCodium"
+
+[[tasks]]
+name = "repo2run/Codium-ai__cover-agent"
+
+[[tasks]]
+name = "repo2run/COLA-Laboratory__TransOPT"
+
+[[tasks]]
+name = "repo2run/Comfy-Org__comfy-cli"
+
+[[tasks]]
+name = "repo2run/CompEpigen__figeno"
+
+[[tasks]]
+name = "repo2run/computer-agents__agent-studio"
+
+[[tasks]]
+name = "repo2run/cosmic-cortex__mlfz"
+
+[[tasks]]
+name = "repo2run/cremebrule__digital-cousins"
+
+[[tasks]]
+name = "repo2run/crewAIInc__crewAI-tools"
+
+[[tasks]]
+name = "repo2run/cvg__nerf-on-the-go"
+
+[[tasks]]
+name = "repo2run/D-Star-AI__dsRAG"
+
+[[tasks]]
+name = "repo2run/D4Vinci__Scrapling"
+
+[[tasks]]
+name = "repo2run/DAGWorks-Inc__burr"
+
+[[tasks]]
+name = "repo2run/dai-motoki__zoltraak"
+
+[[tasks]]
+name = "repo2run/darrenburns__posting"
+
+[[tasks]]
+name = "repo2run/DataformerAI__dataformer"
+
+[[tasks]]
+name = "repo2run/daxa-ai__pebblo"
+
+[[tasks]]
+name = "repo2run/daya0576__beaverhabits"
+
+[[tasks]]
+name = "repo2run/dbos-inc__dbos-transact-py"
+
+[[tasks]]
+name = "repo2run/deepsense-ai__db-ally"
+
+[[tasks]]
+name = "repo2run/dendrite-systems__dendrite-python-sdk"
+
+[[tasks]]
+name = "repo2run/denser-org__denser-retriever"
+
+[[tasks]]
+name = "repo2run/dingo-actual__infini-transformer"
+
+[[tasks]]
+name = "repo2run/discord__access"
+
+[[tasks]]
+name = "repo2run/dleemiller__WordLlama"
+
+[[tasks]]
+name = "repo2run/dongxuyue__Open-ReplaceAnything"
+
+[[tasks]]
+name = "repo2run/dottxt-ai__outlines-core"
+
+[[tasks]]
+name = "repo2run/dottxt-ai__prompts"
+
+[[tasks]]
+name = "repo2run/dreadnode__rigging"
+
+[[tasks]]
+name = "repo2run/droid-dataset__droid_policy_learning"
+
+[[tasks]]
+name = "repo2run/DS4SD__docling"
+
+[[tasks]]
+name = "repo2run/dynamiq-ai__dynamiq"
+
+[[tasks]]
+name = "repo2run/eakmanrq__sqlframe"
+
+[[tasks]]
+name = "repo2run/EleutherAI__sae"
+
+[[tasks]]
+name = "repo2run/emcf__thepipe"
+
+[[tasks]]
+name = "repo2run/Emerging-AI__ENOVA"
+
+[[tasks]]
+name = "repo2run/EnhancedJax__Bagels"
+
+[[tasks]]
+name = "repo2run/enoch3712__ExtractThinker"
+
+[[tasks]]
+name = "repo2run/epic-open-source__seismometer"
+
+[[tasks]]
+name = "repo2run/epistoteles__TensorHue"
+
+[[tasks]]
+name = "repo2run/epogrebnyak__justpath"
+
+[[tasks]]
+name = "repo2run/erezsh__reladiff"
+
+[[tasks]]
+name = "repo2run/etianen__logot"
+
+[[tasks]]
+name = "repo2run/expectedparrot__edsl"
+
+[[tasks]]
+name = "repo2run/explosion__spacy-layout"
+
+[[tasks]]
+name = "repo2run/facebookresearch__audioseal"
+
+[[tasks]]
+name = "repo2run/facebookresearch__lightplane"
+
+[[tasks]]
+name = "repo2run/facebookresearch__spiritlm"
+
+[[tasks]]
+name = "repo2run/FalkorDB__GraphRAG-SDK"
+
+[[tasks]]
+name = "repo2run/Fanqi-Lin__Data-Scaling-Laws"
+
+[[tasks]]
+name = "repo2run/fastapi__fastapi-cli"
+
+[[tasks]]
+name = "repo2run/fedirz__faster-whisper-server"
+
+[[tasks]]
+name = "repo2run/felafax__felafax"
+
+[[tasks]]
+name = "repo2run/filipstrand__mflux"
+
+[[tasks]]
+name = "repo2run/FlagOpen__FlagGems"
+
+[[tasks]]
+name = "repo2run/fmind__cookiecutter-mlops-package"
+
+[[tasks]]
+name = "repo2run/foundation-model-stack__fms-fsdp"
+
+[[tasks]]
+name = "repo2run/fpgmaas__cookiecutter-uv"
+
+[[tasks]]
+name = "repo2run/frdel__agent-zero"
+
+[[tasks]]
+name = "repo2run/frostming__tetos"
+
+[[tasks]]
+name = "repo2run/Fugaku-LLM__DeepSpeedFugaku"
+
+[[tasks]]
+name = "repo2run/gauge-sh__bridge"
+
+[[tasks]]
+name = "repo2run/Genentech__gReLU"
+
+[[tasks]]
+name = "repo2run/genomoncology__FuzzTypes"
+
+[[tasks]]
+name = "repo2run/getludic__ludic"
+
+[[tasks]]
+name = "repo2run/getzep__graphiti"
+
+[[tasks]]
+name = "repo2run/GigaxGames__gigax"
+
+[[tasks]]
+name = "repo2run/gojasper__flash-diffusion"
+
+[[tasks]]
+name = "repo2run/gomate-community__rageval"
+
+[[tasks]]
+name = "repo2run/gomate-community__TrustRAG"
+
+[[tasks]]
+name = "repo2run/google-deepmind__nanodo"
+
+[[tasks]]
+name = "repo2run/google-deepmind__penzai"
+
+[[tasks]]
+name = "repo2run/google-deepmind__treescope"
+
+[[tasks]]
+name = "repo2run/google-research__timesfm"
+
+[[tasks]]
+name = "repo2run/goombalab__hydra"
+
+[[tasks]]
+name = "repo2run/gpustack__gpustack"
+
+[[tasks]]
+name = "repo2run/gregpr07__browser-use"
+
+[[tasks]]
+name = "repo2run/groq__groq-python"
+
+[[tasks]]
+name = "repo2run/gusye1234__nano-graphrag"
+
+[[tasks]]
+name = "repo2run/hailo-ai__hailo-rpi5-examples"
+
+[[tasks]]
+name = "repo2run/Haiyang-W__GiT"
+
+[[tasks]]
+name = "repo2run/HanaokaYuzu__Gemini-API"
+
+[[tasks]]
+name = "repo2run/HATTER-LONG__Verbiverse"
+
+[[tasks]]
+name = "repo2run/hinthornw__trustcall"
+
+[[tasks]]
+name = "repo2run/HKUDS__HiGPT"
+
+[[tasks]]
+name = "repo2run/HKUDS__UrbanGPT"
+
+[[tasks]]
+name = "repo2run/hngprojects__hng_boilerplate_python_fastapi_web"
+
+[[tasks]]
+name = "repo2run/hpcaitech__Open-Sora"
+
+[[tasks]]
+name = "repo2run/hpcaitech__SwiftInfer"
+
+[[tasks]]
+name = "repo2run/hrnoh24__stream-vc"
+
+[[tasks]]
+name = "repo2run/huchenlei__ComfyUI_omost"
+
+[[tasks]]
+name = "repo2run/huggingface__lerobot"
+
+[[tasks]]
+name = "repo2run/huggingface__lighteval"
+
+[[tasks]]
+name = "repo2run/HZAI-ZJNU__Mamba-YOLO"
+
+[[tasks]]
+name = "repo2run/IAAR-Shanghai__Grimoire"
+
+[[tasks]]
+name = "repo2run/ib-api-reloaded__ib_async"
+
+[[tasks]]
+name = "repo2run/IBM__fastfit"
+
+[[tasks]]
+name = "repo2run/IBM__terratorch"
+
+[[tasks]]
+name = "repo2run/IEIT-Yuan__Yuan2.0-M32"
+
+[[tasks]]
+name = "repo2run/igorbenav__fastcrud"
+
+[[tasks]]
+name = "repo2run/igorbenav__SQLModel-boilerplate"
+
+[[tasks]]
+name = "repo2run/igrek51__wat"
+
+[[tasks]]
+name = "repo2run/illuin-tech__colpali"
+
+[[tasks]]
+name = "repo2run/illuin-tech__vidore-benchmark"
+
+[[tasks]]
+name = "repo2run/Indoxer__LKAN"
+
+[[tasks]]
+name = "repo2run/Infini-AI-Lab__Sequoia"
+
+[[tasks]]
+name = "repo2run/instanseg__instanseg"
+
+[[tasks]]
+name = "repo2run/instructlab__instructlab"
+
+[[tasks]]
+name = "repo2run/Integuru-AI__Integuru"
+
+[[tasks]]
+name = "repo2run/InternLM__InternEvo"
+
+[[tasks]]
+name = "repo2run/invariantlabs-ai__invariant"
+
+[[tasks]]
+name = "repo2run/IST-DASLab__PanzaMail"
+
+[[tasks]]
+name = "repo2run/iterative__datachain"
+
+[[tasks]]
+name = "repo2run/IvanDrokin__torch-conv-kan"
+
+[[tasks]]
+name = "repo2run/jahwag__ClaudeSync"
+
+[[tasks]]
+name = "repo2run/jgravelle__pocketgroq"
+
+[[tasks]]
+name = "repo2run/jhj0517__AdvancedLivePortrait-WebUI"
+
+[[tasks]]
+name = "repo2run/jina-ai__late-chunking"
+
+[[tasks]]
+name = "repo2run/jlowin__fastmcp"
+
+[[tasks]]
+name = "repo2run/jmschrei__tangermeme"
+
+[[tasks]]
+name = "repo2run/jonbarron__camp_zipnerf"
+
+[[tasks]]
+name = "repo2run/JosephBARBIERDARNAL__pypalettes"
+
+[[tasks]]
+name = "repo2run/JoshuaC215__agent-service-toolkit"
+
+[[tasks]]
+name = "repo2run/jshuadvd__LongRoPE"
+
+[[tasks]]
+name = "repo2run/jxnl__n-levels-of-rag"
+
+[[tasks]]
+name = "repo2run/karpathy__minbpe"
+
+[[tasks]]
+name = "repo2run/kennethreitz__simplemind"
+
+[[tasks]]
+name = "repo2run/kevinzakka__mink"
+
+[[tasks]]
+name = "repo2run/knowsuchagency__promptic"
+
+[[tasks]]
+name = "repo2run/koaning__uvtrick"
+
+[[tasks]]
+name = "repo2run/kohjingyu__search-agents"
+
+[[tasks]]
+name = "repo2run/KOSASIH__pi-nexus-autonomous-banking-network"
+
+[[tasks]]
+name = "repo2run/kotaro-kinoshita__yomitoku"
+
+[[tasks]]
+name = "repo2run/KruxAI__ragbuilder"
+
+[[tasks]]
+name = "repo2run/kujirahand__tkeasygui-python"
+
+[[tasks]]
+name = "repo2run/KyanChen__RSMamba"
+
+[[tasks]]
+name = "repo2run/kyegomez__MultiModalMamba"
+
+[[tasks]]
+name = "repo2run/landing-ai__vision-agent"
+
+[[tasks]]
+name = "repo2run/langchain-ai__langchain-postgres"
+
+[[tasks]]
+name = "repo2run/lavague-ai__LaVague"
+
+[[tasks]]
+name = "repo2run/LazyAGI__LazyLLM"
+
+[[tasks]]
+name = "repo2run/lenML__Speech-AI-Forge"
+
+[[tasks]]
+name = "repo2run/leopiney__neuralnoise"
+
+[[tasks]]
+name = "repo2run/lichao-sun__Mora"
+
+[[tasks]]
+name = "repo2run/Lightning-AI__litdata"
+
+[[tasks]]
+name = "repo2run/lightonai__pylate"
+
+[[tasks]]
+name = "repo2run/LilianHollard__LeYOLO"
+
+[[tasks]]
+name = "repo2run/line__lighthouse"
+
+[[tasks]]
+name = "repo2run/LlmKira__fast-langdetect"
+
+[[tasks]]
+name = "repo2run/LMCache__LMCache"
+
+[[tasks]]
+name = "repo2run/lmstudio-ai__mlx-engine"
+
+[[tasks]]
+name = "repo2run/lmstudio-ai__venvstacks"
+
+[[tasks]]
+name = "repo2run/lucasdelimanogueira__PyNorch"
+
+[[tasks]]
+name = "repo2run/LucasFaudman__apkscan"
+
+[[tasks]]
+name = "repo2run/lucidrains__alphafold3-pytorch"
+
+[[tasks]]
+name = "repo2run/lucidrains__infini-transformer-pytorch"
+
+[[tasks]]
+name = "repo2run/lucidrains__pi-zero-pytorch"
+
+[[tasks]]
+name = "repo2run/lucidrains__titok-pytorch"
+
+[[tasks]]
+name = "repo2run/lucidrains__transfusion-pytorch"
+
+[[tasks]]
+name = "repo2run/MadcowD__ell"
+
+[[tasks]]
+name = "repo2run/ManiMozaffar__aioclock"
+
+[[tasks]]
+name = "repo2run/MaoXiaoYuZ__Long-Novel-GPT"
+
+[[tasks]]
+name = "repo2run/Marker-Inc-Korea__AutoRAG"
+
+[[tasks]]
+name = "repo2run/martius-lab__hitchhiking-rotations"
+
+[[tasks]]
+name = "repo2run/mbodiai__embodied-agents"
+
+[[tasks]]
+name = "repo2run/McGill-NLP__weblinx"
+
+[[tasks]]
+name = "repo2run/McGill-NLP__webllama"
+
+[[tasks]]
+name = "repo2run/Menghuan1918__pdfdeal"
+
+[[tasks]]
+name = "repo2run/meta-llama__llama-stack-apps"
+
+[[tasks]]
+name = "repo2run/MetaGLM__zhipuai-sdk-python-v4"
+
+[[tasks]]
+name = "repo2run/metavoiceio__metavoice-src"
+
+[[tasks]]
+name = "repo2run/microsoft__aurora"
+
+[[tasks]]
+name = "repo2run/microsoft__graphrag"
+
+[[tasks]]
+name = "repo2run/microsoft__MInference"
+
+[[tasks]]
+name = "repo2run/microsoft__semantic-link-labs"
+
+[[tasks]]
+name = "repo2run/microsoft__TinyTroupe"
+
+[[tasks]]
+name = "repo2run/microsoft__Trace"
+
+[[tasks]]
+name = "repo2run/mikekelly__AgentK"
+
+[[tasks]]
+name = "repo2run/Mindinventory__MindSQL"
+
+[[tasks]]
+name = "repo2run/MinishLab__model2vec"
+
+[[tasks]]
+name = "repo2run/miquido__draive"
+
+[[tasks]]
+name = "repo2run/mistralai__mistral-common"
+
+[[tasks]]
+name = "repo2run/mistralai__mistral-finetune"
+
+[[tasks]]
+name = "repo2run/mixedbread-ai__baguetter"
+
+[[tasks]]
+name = "repo2run/mixedbread-ai__batched"
+
+[[tasks]]
+name = "repo2run/mkjt2__lockbox"
+
+[[tasks]]
+name = "repo2run/mlecauchois__micrograd-cuda"
+
+[[tasks]]
+name = "repo2run/MLT-OSS__open-assistant-api"
+
+[[tasks]]
+name = "repo2run/mlx-graphs__mlx-graphs"
+
+[[tasks]]
+name = "repo2run/mobiusml__gemlite"
+
+[[tasks]]
+name = "repo2run/ModelCloud__GPTQModel"
+
+[[tasks]]
+name = "repo2run/modelcontextprotocol__python-sdk"
+
+[[tasks]]
+name = "repo2run/modelscope__agentscope"
+
+[[tasks]]
+name = "repo2run/modelscope__MemoryScope"
+
+[[tasks]]
+name = "repo2run/modern-python__that-depends"
+
+[[tasks]]
+name = "repo2run/muchdogesec__history4feed"
+
+[[tasks]]
+name = "repo2run/muditbhargava66__PyxLSTM"
+
+[[tasks]]
+name = "repo2run/narwhals-dev__narwhals"
+
+[[tasks]]
+name = "repo2run/nasa-jpl__rosa"
+
+[[tasks]]
+name = "repo2run/neo4j__neo4j-graphrag-python"
+
+[[tasks]]
+name = "repo2run/neuralmagic__AutoFP8"
+
+[[tasks]]
+name = "repo2run/neuralmagic__guidellm"
+
+[[tasks]]
+name = "repo2run/NewT123-WM__tnlearn"
+
+[[tasks]]
+name = "repo2run/NexaAI__nexa-sdk"
+
+[[tasks]]
+name = "repo2run/nicobrenner__commandjobs"
+
+[[tasks]]
+name = "repo2run/Nike-Inc__koheesio"
+
+[[tasks]]
+name = "repo2run/nlmatics__nlm-ingestor"
+
+[[tasks]]
+name = "repo2run/NLPJCL__RAG-Retrieval"
+
+[[tasks]]
+name = "repo2run/nomic-ai__contrastors"
+
+[[tasks]]
+name = "repo2run/NousResearch__finetuning-subnet"
+
+[[tasks]]
+name = "repo2run/NUS-HPC-AI-Lab__VideoSys"
+
+[[tasks]]
+name = "repo2run/NVIDIA__kvpress"
+
+[[tasks]]
+name = "repo2run/NVIDIA__logits-processor-zoo"
+
+[[tasks]]
+name = "repo2run/NVIDIA__Megatron-Energon"
+
+[[tasks]]
+name = "repo2run/NVIDIA__NeMo-Skills"
+
+[[tasks]]
+name = "repo2run/NVIDIA__nv-ingest"
+
+[[tasks]]
+name = "repo2run/NVlabs__nvTorchCam"
+
+[[tasks]]
+name = "repo2run/NVlabs__Sana"
+
+[[tasks]]
+name = "repo2run/NVlabs__VILA"
+
+[[tasks]]
+name = "repo2run/ogkalu2__comic-translate"
+
+[[tasks]]
+name = "repo2run/Open-Wine-Components__umu-launcher"
+
+[[tasks]]
+name = "repo2run/openai__mle-bench"
+
+[[tasks]]
+name = "repo2run/openai__swarm"
+
+[[tasks]]
+name = "repo2run/opendatalab__MinerU"
+
+[[tasks]]
+name = "repo2run/openfoundry-ai__model_manager"
+
+[[tasks]]
+name = "repo2run/opengeos__HyperCoast"
+
+[[tasks]]
+name = "repo2run/OpenInterpreter__aifs"
+
+[[tasks]]
+name = "repo2run/OpenNLPLab__lightning-attention"
+
+[[tasks]]
+name = "repo2run/openpsi-project__ReaLHF"
+
+[[tasks]]
+name = "repo2run/openrecall__openrecall"
+
+[[tasks]]
+name = "repo2run/OpenSPG__KAG"
+
+[[tasks]]
+name = "repo2run/orbital-materials__orb-models"
+
+[[tasks]]
+name = "repo2run/OwlAIProject__Owl"
+
+[[tasks]]
+name = "repo2run/PacktPublishing__LLM-Engineers-Handbook"
+
+[[tasks]]
+name = "repo2run/paradigmxyz__spice"
+
+[[tasks]]
+name = "repo2run/patched-codes__patchwork"
+
+[[tasks]]
+name = "repo2run/paulrobello__parllama"
+
+[[tasks]]
+name = "repo2run/PeiJieSun__NESCL"
+
+[[tasks]]
+name = "repo2run/plinder-org__plinder"
+
+[[tasks]]
+name = "repo2run/pomonam__kronfluence"
+
+[[tasks]]
+name = "repo2run/PrefectHQ__ControlFlow"
+
+[[tasks]]
+name = "repo2run/PrimeIntellect-ai__OpenDiloco"
+
+[[tasks]]
+name = "repo2run/princeton-nlp__SWE-agent"
+
+[[tasks]]
+name = "repo2run/proger__accelerated-scan"
+
+[[tasks]]
+name = "repo2run/pydantic__logfire"
+
+[[tasks]]
+name = "repo2run/pymupdf__RAG"
+
+[[tasks]]
+name = "repo2run/pytorch-labs__LeanRL"
+
+[[tasks]]
+name = "repo2run/raphaelmansuy__code2prompt"
+
+[[tasks]]
+name = "repo2run/RapidAI__RapidLayout"
+
+[[tasks]]
+name = "repo2run/reagento__dishka"
+
+[[tasks]]
+name = "repo2run/real-stanford__universal_manipulation_interface"
+
+[[tasks]]
+name = "repo2run/Realiserad__fish-ai"
+
+[[tasks]]
+name = "repo2run/RealOrangeOne__django-tasks"
+
+[[tasks]]
+name = "repo2run/reidjs__text-scheduler"
+
+[[tasks]]
+name = "repo2run/reka-ai__reka-vibe-eval"
+
+[[tasks]]
+name = "repo2run/remigenet__TKAN"
+
+[[tasks]]
+name = "repo2run/rio-labs__rio"
+
+[[tasks]]
+name = "repo2run/robocasa__robocasa"
+
+[[tasks]]
+name = "repo2run/RobotecAI__rai"
+
+[[tasks]]
+name = "repo2run/robusta-dev__holmesgpt"
+
+[[tasks]]
+name = "repo2run/royreznik__rexi"
+
+[[tasks]]
+name = "repo2run/run-llama__llama_deploy"
+
+[[tasks]]
+name = "repo2run/run-llama__llama_parse"
+
+[[tasks]]
+name = "repo2run/SamKhoze__ComfyUI-DeepFuze"
+
+[[tasks]]
+name = "repo2run/ScrapeGraphAI__Scrapegraph-ai"
+
+[[tasks]]
+name = "repo2run/seanchatmangpt__dspygen"
+
+[[tasks]]
+name = "repo2run/serverless-ca__terraform-aws-ca"
+
+[[tasks]]
+name = "repo2run/ServerlessLLM__ServerlessLLM"
+
+[[tasks]]
+name = "repo2run/ServiceNow__BrowserGym"
+
+[[tasks]]
+name = "repo2run/ServiceNow__TapeAgents"
+
+[[tasks]]
+name = "repo2run/ServiceNow__WorkArena"
+
+[[tasks]]
+name = "repo2run/ShaShekhar__aaiela"
+
+[[tasks]]
+name = "repo2run/shawntan__scattermoe"
+
+[[tasks]]
+name = "repo2run/ShoggothAI__motleycrew"
+
+[[tasks]]
+name = "repo2run/showlab__computer_use_ootb"
+
+[[tasks]]
+name = "repo2run/shun-liang__yt2doc"
+
+[[tasks]]
+name = "repo2run/siliconflow__BizyAir"
+
+[[tasks]]
+name = "repo2run/simonw__files-to-prompt"
+
+[[tasks]]
+name = "repo2run/simonw__llm-claude-3"
+
+[[tasks]]
+name = "repo2run/simonw__llm-cmd"
+
+[[tasks]]
+name = "repo2run/simonw__llm-jq"
+
+[[tasks]]
+name = "repo2run/simular-ai__Agent-S"
+
+[[tasks]]
+name = "repo2run/sirocco-ventures__raggenie"
+
+[[tasks]]
+name = "repo2run/souzatharsis__podcastfy"
+
+[[tasks]]
+name = "repo2run/SpecterOps__cred1py"
+
+[[tasks]]
+name = "repo2run/StacklokLabs__promptwright"
+
+[[tasks]]
+name = "repo2run/steinathan__reelsmaker"
+
+[[tasks]]
+name = "repo2run/stephengpope__no-code-architects-toolkit"
+
+[[tasks]]
+name = "repo2run/StonyBrookNLP__appworld"
+
+[[tasks]]
+name = "repo2run/Storia-AI__sage"
+
+[[tasks]]
+name = "repo2run/superlinear-ai__raglite"
+
+[[tasks]]
+name = "repo2run/swarmzero__swarmzero"
+
+[[tasks]]
+name = "repo2run/tahnok__colmi_r02_client"
+
+[[tasks]]
+name = "repo2run/taketwo__llm-ollama"
+
+[[tasks]]
+name = "repo2run/taobojlen__django-zeal"
+
+[[tasks]]
+name = "repo2run/TencentARC__BrushNet"
+
+[[tasks]]
+name = "repo2run/TheAiSingularity__graphrag-local-ollama"
+
+[[tasks]]
+name = "repo2run/thousandbrainsproject__tbp.monty"
+
+[[tasks]]
+name = "repo2run/THU-MIG__yolov10"
+
+[[tasks]]
+name = "repo2run/thu-nics__MoA"
+
+[[tasks]]
+name = "repo2run/tjmlabs__AgentRun"
+
+[[tasks]]
+name = "repo2run/tobiasfshr__map4d"
+
+[[tasks]]
+name = "repo2run/Toloka__dbt-af"
+
+[[tasks]]
+name = "repo2run/TorchJD__torchjd"
+
+[[tasks]]
+name = "repo2run/tox-dev__tox-uv"
+
+[[tasks]]
+name = "repo2run/TuragaLab__flybody"
+
+[[tasks]]
+name = "repo2run/turbo-llm__turbo-alignment"
+
+[[tasks]]
+name = "repo2run/TY-Cheng__torchvinecopulib"
+
+[[tasks]]
+name = "repo2run/ucbepic__docetl"
+
+[[tasks]]
+name = "repo2run/ultrasev__llmproxy"
+
+[[tasks]]
+name = "repo2run/uname-n__deltabase"
+
+[[tasks]]
+name = "repo2run/unifyai__unify"
+
+[[tasks]]
+name = "repo2run/Vashkatsi__deply"
+
+[[tasks]]
+name = "repo2run/VideoVerses__VideoTuna"
+
+[[tasks]]
+name = "repo2run/vintasoftware__django-ai-assistant"
+
+[[tasks]]
+name = "repo2run/virattt__financial-datasets"
+
+[[tasks]]
+name = "repo2run/vllm-project__llm-compressor"
+
+[[tasks]]
+name = "repo2run/volcengine__verl"
+
+[[tasks]]
+name = "repo2run/volfpeter__fasthx"
+
+[[tasks]]
+name = "repo2run/volfpeter__htmy"
+
+[[tasks]]
+name = "repo2run/vysakh0__dravid"
+
+[[tasks]]
+name = "repo2run/warmshao__FasterLivePortrait"
+
+[[tasks]]
+name = "repo2run/weareprestatech__hotpdf"
+
+[[tasks]]
+name = "repo2run/web-arena-x__visualwebarena"
+
+[[tasks]]
+name = "repo2run/Weixiang-Sun__Bora"
+
+[[tasks]]
+name = "repo2run/whyhow-ai__knowledge-graph-studio"
+
+[[tasks]]
+name = "repo2run/whyhow-ai__rule-based-retrieval"
+
+[[tasks]]
+name = "repo2run/whyhow-ai__whyhow"
+
+[[tasks]]
+name = "repo2run/WongKinYiu__YOLO"
+
+[[tasks]]
+name = "repo2run/WU-CVGL__BAD-Gaussians"
+
+[[tasks]]
+name = "repo2run/wy-z__container-vm"
+
+[[tasks]]
+name = "repo2run/xdit-project__xDiT"
+
+[[tasks]]
+name = "repo2run/xhluca__bm25s"
+
+[[tasks]]
+name = "repo2run/yihong0618__klingCreator"
+
+[[tasks]]
+name = "repo2run/yihong1120__Construction-Hazard-Detection"
+
+[[tasks]]
+name = "repo2run/yinjunbo__IS-Fusion"
+
+[[tasks]]
+name = "repo2run/YUCHEN005__GenTranslate"
+
+[[tasks]]
+name = "repo2run/YUCHEN005__RobustGER"
+
+[[tasks]]
+name = "repo2run/yurujaja__pangaea-bench"
+
+[[tasks]]
+name = "repo2run/ZenGuard-AI__fast-llm-security-guardrails"
+
+[[tasks]]
+name = "repo2run/zeroasiccorp__logik"
+
+[[tasks]]
+name = "repo2run/zhuqinfeng1999__Samba"
+
+[[tasks]]
+name = "repo2run/zipnn__zipnn"
+
+[[tasks]]
+name = "repo2run/zou-group__textgrad"

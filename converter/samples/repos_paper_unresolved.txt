@@ -1,0 +1,7 @@
+full_name	short_sha	success	reason
+bhavnicksm/chonkie	990493	Yes	repo deleted
+jialuechen/deepfolio	15d247	No	commit force-pushed away
+outspeed-ai/outspeed	049b40	Yes	repo deleted
+PrimeIntellect-ai/prime	a974cf	Yes	commit force-pushed away
+RapidAI/RapidDoc	5e5fef	Yes	commit force-pushed away
+run-llama/llama_extract	89438f	Yes	repo deleted

@@ -1,0 +1,4 @@
+full_name,sha
+# Default sample row: Repo2Run README's recommended baseline (line 60-62).
+# A relatively easy-to-configure repo, useful for end-to-end smoke tests.
+Benexl/FastAnime,677f4690fab4651163d0330786672cf1ba1351bf
