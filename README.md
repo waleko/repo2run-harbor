@@ -121,6 +121,51 @@ harbor run --env-file ./.env -p ./tasks \
     --env docker -l 10
 ```
 
+### Local / self-hosted models
+
+Any OpenAI-compatible server (vLLM, sglang, llama.cpp's `llama-server`,
+ollama, LM Studio, TGI, …) works — just pass `api_base` as an agent
+kwarg:
+
+```bash
+# Example: vLLM serving Qwen2.5-Coder-32B
+vllm serve Qwen/Qwen2.5-Coder-32B-Instruct \
+    --served-model-name qwen-coder-32b --port 8000
+
+# In another terminal — note OPENAI_API_KEY must be set (any value),
+# litellm requires it; the local server typically ignores it.
+export OPENAI_API_KEY=dummy
+
+harbor run --env-file ./.env -p ./tasks \
+    -a terminus-2 \
+    -m openai/qwen-coder-32b \
+    --ak api_base=http://localhost:8000/v1 \
+    --ak temperature=0.7 \
+    --env e2b -l 10
+```
+
+Notes:
+
+- **Keep the `openai/` prefix in `-m`** even for non-OpenAI backends.
+  litellm uses it to pick the OpenAI-shaped HTTP adapter; `api_base`
+  redirects where the request goes.
+- **The agent runs on your host, not in the sandbox.** Your local server
+  only has to be reachable from your own machine — no need to expose it
+  to e2b. The sandbox executes the bash commands the agent issues.
+- **For unrecognized model names** litellm may not know context limits;
+  pass `--ak model_info='{"max_input_tokens":32768,"max_output_tokens":4096}'`
+  if you see context-window warnings.
+- **Ollama:** use `--ak api_base=http://localhost:11434/v1` and
+  `-m openai/<your-model>` (ollama's native endpoint also works via
+  `-m ollama/<model>` if the agent supports the prefix).
+- **Anthropic-compatible servers** (e.g. `claude-code` agent against a
+  proxy): set `ANTHROPIC_API_BASE` env var instead.
+
+`api_base` is a kwarg supported by every litellm-backed agent
+(`terminus-2`, `mini-swe-agent`, `aider`, `openhands`, …); confirm via
+each agent's `__init__` signature in
+`harbor/agents/<agent>/<agent>.py`.
+
 ### Inspecting results
 
 ```bash
